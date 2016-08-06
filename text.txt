@@ -1,0 +1,5 @@
+A simple text scanner which can parse primitive types and strings using regular expressions.
+
+A Scanner breaks its input into tokens using a delimiter pattern, which by default matches whitespace. The resulting tokens may then be converted into values of different types using the various next methods.
+
+For example, this code allows a user to read a number from System input
