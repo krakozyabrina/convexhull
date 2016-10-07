@@ -29,4 +29,8 @@ public class Vector {
         double y2 = vector.start.getY() - vector.end.getY();
         return x1 * x2 + y1 * y2;
     }
+
+    public double crossProduct(Vector vector) {
+        double
+    }
 }
